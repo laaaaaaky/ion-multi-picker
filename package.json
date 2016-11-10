@@ -34,7 +34,7 @@
     "run:before": "build"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "^0.0.39",
+    "@ionic/app-scripts": "^0.0.43",
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
     "babel-preset-es2015": "^6.18.0",
