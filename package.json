@@ -54,7 +54,7 @@
     "protractor": "^4.0.10",
     "run-sequence": "^1.2.2",
     "ts-loader": "^1.0.0",
-    "typescript": "^2.0.7",
+    "typescript": "^2.0.10",
     "webpack": "^1.13.3"
   },
   "name": "ion-multi-picker",
